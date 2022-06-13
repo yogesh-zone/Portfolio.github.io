@@ -1,11 +1,3 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
-
-/*-- Reset Code --*/
 html{
 	scroll-behavior: smooth;
 }
@@ -1975,16 +1967,6 @@ textarea {
 	input[type="submit"] {
 		font-size: 0.9em;
 	}
-	/* .copy-section p {
-		font-size: 0.9em;
-		line-height: 1.9em;
-	}
-	.copy-section {
-		padding: 1.7em 0;
-	} */
-	/* .map iframe {
-		height: 211px;
-	} */
 }
 @media(max-width: 414px){
 	.logo-w3layouts h1 a {
